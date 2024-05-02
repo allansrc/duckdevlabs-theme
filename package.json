@@ -2,13 +2,24 @@
   "name": "duckdevlabs",
   "displayName": "DuckDevLabs",
   "description": "Theme from and for Duck Devs",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.88.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "icons/icon.jpeg",
+  "publisher": "DuckDevbyAllanRamos",
+  "author": {
+    "name": "Allan Ramos",
+    "email": "contato@allansrc.com.br",
+    "url": "https://allansrc.com.br"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/allansrc/duckdevlabs-theme"
+  },
   "contributes": {
     "themes": [
       {
