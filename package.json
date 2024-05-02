@@ -1,0 +1,21 @@
+{
+  "name": "duckdevlabs",
+  "displayName": "DuckDevLabs",
+  "description": "Theme from and for Duck Devs",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DuckDevTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DuckDevTheme-color-theme.json"
+      }
+    ]
+  }
+}
