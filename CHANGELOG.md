@@ -1,9 +1,31 @@
-# Change Log
+# DuckdevLabs-theme
 
-All notable changes to the "duckdevlabs" extension will be documented in this file.
+## [0.2.3 - 16/01/2025]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Improove docs;
+- Minor fixes
+
+## [0.2.2 - 03/05/2024]
+
+- Minor Fixes
+
+## [0.2.1 - 03/05/2024]
+
+- Add more contrast on views;
+- Improove Merge editor colors & contrast;
+
+## [0.2.0 - 02/05/2024]
+
+- Fix Theme Color scheme
+
+## [0.1.1 - 02/05/2024]
+
+- Fix Theme Matrix Color and Gain
+
+## [0.1.0 - 02/05/2024]
+
+- First Public Release
 
 ## [Unreleased]
 
-- Initial release
+- Initial release: Internal using devlopment on version 0.0.1

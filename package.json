@@ -2,7 +2,7 @@
   "name": "duckdevlabs",
   "displayName": "DuckDevLabs",
   "description": "Theme from and for Duck Devs",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "engines": {
     "vscode": "^1.88.0"
   },
