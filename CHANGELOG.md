@@ -1,5 +1,9 @@
 # DuckdevLabs-theme
 
+## [0.2.3 - 11/03/2025]
+
+- Adds New theme Scheme for minimal yellow
+
 ## [0.2.3 - 16/01/2025]
 
 - Improove docs;

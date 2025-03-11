@@ -26,6 +26,16 @@
         "label": "DuckDevTheme",
         "uiTheme": "vs-dark",
         "path": "./themes/DuckDevTheme-color-theme.json"
+      },
+      {
+        "label": "DuckDev Yellow No much",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DuckDevTheme-color-theme-1.json"
+      },
+      {
+        "label": "DuckDev- Yeti minimal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DuckDev-YetiTheme-color-theme.json"
       }
     ]
   }
