@@ -1,6 +1,6 @@
 # DuckdevLabs-theme
 
-## [0.2.3 - 11/03/2025]
+## [0.3.0 - 11/03/2025]
 
 - Adds New theme Scheme for minimal yellow
 
